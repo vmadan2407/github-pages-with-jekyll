@@ -11,3 +11,4 @@ instagram_username: vidit572 # DO NOT include the @ character, or else the build
 github_username:  vmadan2407 # DO NOT include the @ character, or else the build will fail!
 linkedin_username: viditmadan3
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
